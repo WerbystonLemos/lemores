@@ -1,7 +1,8 @@
 import './App.css';
 import Header from './parts/Header'
-import Banner from './parts/Banner';
-import Calling from './parts/Calling';
+import Banner from './parts/Banner'
+import Calling from './parts/Calling'
+import Processing from './parts/Processings';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Banner />
       <Calling />
+      <Processing />
     </div>
   );
 }
