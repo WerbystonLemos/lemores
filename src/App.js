@@ -4,6 +4,7 @@ import Banner from './parts/Banner'
 import Calling from './parts/Calling'
 import Processing from './parts/Processings';
 import Ready from './parts/Ready';
+import Footer from './parts/Footer';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Calling />
       <Processing />
       <Ready />
+      <Footer />
     </div>
   );
 }
