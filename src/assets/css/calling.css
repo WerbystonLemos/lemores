@@ -1,21 +1,4 @@
-.containerCalling, .elementCalling, .calling
-{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.containerCalling
-{
-    padding: 30px 50px;
-}
-.elementCalling
-{
-    gap: 10px;
-    color: var(--white);
-    background-color: var(--terceary);
-    padding: 10px;
-}
-.elementCalling svg
+.containerCalling svg
 {
     color: var(--secondary);
     width: 60px;

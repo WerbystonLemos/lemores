@@ -1,16 +1,12 @@
-.containerProcessing, .processingTitle, .boxItem, .boxItemExplain, .processingSteps
+.processingTitle, .boxItem, .boxItemExplain
 {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.containerProcessing, .processingTitle
+ .processingTitle
 {
     flex-direction: column;
-}
-.containerProcessing
-{
-    padding: 30px;
 }
 .processingTitle p
 {

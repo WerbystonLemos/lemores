@@ -1,12 +1,9 @@
+
 .mainContainer
 {
     display: flex;
     flex-direction: column;
     background-color: var(--primary);
-}
-.mainContainer > *
-{
-    padding: 1px 15px;
 }
 .btn
 {

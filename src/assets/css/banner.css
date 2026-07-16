@@ -1,46 +1,4 @@
 .containerBanner
 {
     background-image: url('./../images/background.png');
-    /* height: 300px; */
-    color: var(--white);
-}
-.containerBanner, .containerBannerButtons, .containerTitlesCalling, .containerDeviceImage
-{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.containerBannerButtons
-{
-    gap: 20px;
-}
-.containerDeviceImage > img
-{
-    width: 100%;
-}
-.containerTitlesCalling
-{
-    flex-direction: column;
-    justify-content: left;
-    width: 40%;
-}
-.containerTitlesCalling small
-{
-    color: var(--secondary);
-    text-align: left;
-    width: 100%;
-}
-#mainCalling
-{
-    font-size: 45pt;
-    line-height: 50px;
-}
-#mainCalling span
-{
-    color: var(--secondary);
-    font-weight: bolder;
-}
-.containerDeviceImage
-{
-    width: 60%;
 }

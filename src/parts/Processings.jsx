@@ -3,7 +3,7 @@ import './../assets/css/processing.css'
 export default function Processing()
 {
     return(
-        <div className="containerProcessing">
+        <div className="containerProcessing flex items-center justify-center flex-col py-16 gap-8">
             <div className="processingTitle">
                 <p>
                     <span>COMO TRABALHAMOS</span><br/>
@@ -11,7 +11,7 @@ export default function Processing()
                     Do planejamento à entrega, vuidamos de tudo para você
                 </p>
             </div>
-            <div className="processingSteps">
+            <div className="flex flex-col gap-16">
                 
                 <div id="boxBriefing" className="boxItem">
                     <span className="stepBoxProcessing">1</span>
