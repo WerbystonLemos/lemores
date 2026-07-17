@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/lemores/static/css/main.e5d4a01a.css",
-    "main.js": "/lemores/static/js/main.ff784cc5.js",
+    "main.css": "/lemores/static/css/main.97838327.css",
+    "main.js": "/lemores/static/js/main.434269c2.js",
     "static/js/453.308519f6.chunk.js": "/lemores/static/js/453.308519f6.chunk.js",
     "static/media/devices.png": "/lemores/static/media/devices.7a20eea33cd920cc3532.png",
     "static/media/background.png": "/lemores/static/media/background.dc83d75df35684c6e141.png",
     "static/media/logomarcaBCO.png": "/lemores/static/media/logomarcaBCO.404a6e97a9054f010bd7.png",
-    "static/media/logomarca.png": "/lemores/static/media/logomarca.8e35a4fa6e674ae0fb11.png",
     "index.html": "/lemores/index.html",
-    "main.e5d4a01a.css.map": "/lemores/static/css/main.e5d4a01a.css.map",
-    "main.ff784cc5.js.map": "/lemores/static/js/main.ff784cc5.js.map",
+    "main.97838327.css.map": "/lemores/static/css/main.97838327.css.map",
+    "main.434269c2.js.map": "/lemores/static/js/main.434269c2.js.map",
     "453.308519f6.chunk.js.map": "/lemores/static/js/453.308519f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5d4a01a.css",
-    "static/js/main.ff784cc5.js"
+    "static/css/main.97838327.css",
+    "static/js/main.434269c2.js"
   ]
 }
